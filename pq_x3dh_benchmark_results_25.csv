@@ -1,0 +1,18 @@
+Phase,Iterations,Time Mean (s),Time Max (s),Time Min (s),Time Stddev (s),Memory Mean (bytes),Memory Max (bytes),Memory Min (bytes),Memory Stddev (bytes)
+Key Generation,25,16.830696,19.518472,15.801116,0.859791,17694680.88,18469230,17659297,161385.82
+Session Setup,25,18.46862,20.576689,17.104124,1.085516,17880223.28,17894894,17876967,3344.15
+Encryption+Decryption of 6 messages,25,212.254031,222.701368,199.493524,5.510153,17957440.8,17964692,17951194,4765.91
+Encryption / Decryption of 1 message,,17.68783592,18.55844733,16.62446033,0.459179417,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Phase,Iterations,Time Mean (ms),Time Max (ms),Time Min (ms),Time Stddev (ms),Memory Mean (MB),Memory Max (MB),Memory Min (MB),Memory Stddev (MB)
+Key Generation,25,16830.696,19518.472,15801.116,859.791,17.69468088,18.46923,17.659297,0.16138582
+Session Setup,25,18468.62,20576.689,17104.124,1085.516,17.88022328,17.894894,17.876967,0.00334415
+Encryption/Decryption of 1 message,25,17687.83592,18558.44733,16624.46033,459.1794167,17.9574408,17.964692,17.951194,0.00476591

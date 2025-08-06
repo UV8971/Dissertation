@@ -1,0 +1,5 @@
+Phase,Iterations,Time Mean (s),Time Max (s),Time Min (s),Time Stddev (s),Memory Mean (bytes),Memory Max (bytes),Memory Min (bytes),Memory Stddev (bytes)
+Key Generation,2,16.1896,16.4542,15.9249,0.3742,17664169,17665161,17663177,1402.9
+Session Setup,2,17.2844,17.9627,16.606,0.9593,17881027,17882495,17879559,2076.07
+Encryption/Decryption of 12 messages ,2,201.5353,204.0752,198.9954,3.592,17962330,17962484,17962176,217.79
+Encryption/Decryption of 1 message ,,16.7946,17.0063,16.5829,0.2993,,,,
